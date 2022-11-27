@@ -1,0 +1,30 @@
+{
+  "name": "weigot/file",
+  "type": "library",
+  "description": "常用工具方法",
+  "keywords": [
+    "weigot",
+    "file"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Weigot\\File\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.6.0",
+    "ext-imagick": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "authors": [
+    {
+      "name": "caowei",
+      "email": "caowei_e@sina.cn"
+    }
+  ],
+  "version": "v1.0.0",
+  "license": "MIT",
+  "minimum-stability": "stable"
+}
