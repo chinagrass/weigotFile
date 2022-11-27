@@ -1,10 +1,11 @@
 {
   "name": "weigot/file",
   "type": "library",
-  "description": "常用工具方法",
+  "description": "文件处理方法",
   "keywords": [
     "weigot",
-    "file"
+    "file",
+    "image"
   ],
   "autoload": {
     "psr-4": {
